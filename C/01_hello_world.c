@@ -1,3 +1,5 @@
+Day 1 — First C Program
+
 #include <stdio.h>   // allows input and output functions like printf
 
 int main()           // main function: program starts running from here
